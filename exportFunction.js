@@ -1,4 +1,4 @@
-function text(txt) {
-  return txt;
+function statement() {
+  return "This is a Function" ;
 }
-module.exports = text;
+module.exports = statement;
